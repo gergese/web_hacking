@@ -1,0 +1,77 @@
+import event1 from "../../public/image/event1.jpg";
+import event2 from "../../public/image/event2.jpg";
+
+export const eventData = [
+  {
+    id: 1,
+    title: "오픈 감사 이벤트!",
+    userName: "관리자",
+    date: "2023-11-13",
+    url: null,
+    text: "당근 오픈 감사 이벤트입니다. 경품 추첨합니다.",
+  },
+  {
+    id: 2,
+    title: "추첨 경품 이벤트!",
+    userName: "관리자",
+    date: "2023-11-13",
+    url: event1,
+    text: "당근 오픈 감사 이벤트입니다. 경품 추첨합니다.",
+  },
+  {
+    id: 3,
+    title: "장바구니 런칭 이벤트!",
+    userName: "관리자",
+    date: "2023-11-13",
+    url: event2,
+    text: "당근 오픈 감사 이벤트입니다. 경품 추첨합니다.",
+  },
+  {
+    id: 4,
+    title: "오픈 감사 이벤트!",
+    userName: "관리자",
+    date: "2023-11-13",
+    url: null,
+    text: "당근 오픈 감사 이벤트입니다. 경품 추첨합니다.",
+  },
+  {
+    id: 5,
+    title: "추첨 경품 이벤트!",
+    userName: "관리자",
+    date: "2023-11-13",
+    url: event1,
+    text: "당근 오픈 감사 이벤트입니다. 경품 추첨합니다.",
+  },
+  {
+    id: 6,
+    title: "장바구니 런칭 이벤트!",
+    userName: "관리자",
+    date: "2023-11-13",
+    url: event2,
+    text: "당근 오픈 감사 이벤트입니다. 경품 추첨합니다.",
+  },
+  {
+    id: 7,
+    title: "오픈 감사 이벤트!",
+    userName: "관리자",
+    date: "2023-11-13",
+    url: null,
+    text: "당근 오픈 감사 이벤트입니다. 경품 추첨합니다.",
+  },
+  {
+    id: 8,
+    title: "추첨 경품 이벤트!",
+    userName: "관리자",
+    date: "2023-11-13",
+    url: event1,
+    text: "당근 오픈 감사 이벤트입니다. 경품 추첨합니다.",
+  },
+  {
+    id: 9,
+    title: "장바구니 런칭 이벤트!",
+    userName: "관리자",
+    date: "2023-11-13",
+    url: event2,
+    text: "당근 오픈 감사 이벤트입니다. 경품 추첨합니다.",
+  },
+];
